@@ -1,13 +1,10 @@
 import React from 'react';
 import {
-    Code2,
-    Database,
     Layout,
     Server,
     Smartphone,
     Terminal,
     Globe,
-    Cpu
 } from 'lucide-react';
 
 const skills = [

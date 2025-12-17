@@ -37,10 +37,10 @@ const ContactPage = () => {
         {/* Header */}
         <div className="text-center mb-16">
           <h1 className="text-5xl md:text-7xl font-black tracking-tighter mb-6">
-            LET'S <span className="text-emerald-500">TALK</span>
+            LET&apos;S <span className="text-emerald-500">TALK</span>
           </h1>
           <p className="text-xl text-gray-400 max-w-2xl mx-auto">
-            Have a project in mind or just want to say hello? I'm always open to discussing new opportunities and innovative ideas.
+            Have a project in mind or just want to say hello? I&apos;m always open to discussing new opportunities and innovative ideas.
           </p>
         </div>
 
